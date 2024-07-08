@@ -5,14 +5,16 @@
     "case": "Sprawa",
     "noReason": "Moderator: proszę uruchomić {command}",
     "noReasonBrief": "Uruchom {command}",
-
     "ban": "Zbanuj",
     "unban": "Odbanuj",
     "kick": "Wyrzuć",
     "mute": "Przerwa",
     "unmute": "Przerwa została zdjętą",
-
     "timeoutEnds": "Przerwa kończy się {time}",
-
-    "editReason": "Edytuj powód"
+    "editReason": "Edytuj powód",
+    "reasonModal": {
+        "label": "Reason",
+        "title": "Modify modlog reason",
+        "placeholder": "Being very bad >:("
+    }
 }
