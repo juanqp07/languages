@@ -10,5 +10,21 @@
         "description_removed": "{executor} usunął ikonę serwera",
         "linkToOldIcon": "Link do starej ikony",
         "linkToNewIcon": "Link do nowej ikony"
+    },
+    "serverBoostRemove": {
+        "description": "{user} stopped boosting this server",
+        "none": "none",
+        "description_withTier": "{user} stopped boosting, causing the server to drop down to tier {tier}",
+        "title": "Server Boost Removed",
+        "description_withTier_noUser": "Someone stopped boosting, causing the server to drop down to tier {tier}",
+        "description_noUser": "Someone stopped boosting this server"
+    },
+    "serverBoostAdd": {
+        "none": "none",
+        "description_withTier_noUser": "Someone boosted this server to tier {tier} 🎉",
+        "description_withTier": "{user} boosted this server to tier {tier} 🎉",
+        "description_noUser": "Someone boosted this server 🎉",
+        "description": "{user} boosted this server 🎉",
+        "title": "Server Boosted"
     }
 }
