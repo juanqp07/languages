@@ -192,7 +192,16 @@
             },
             "fileEvents": {
                 "title": "Files"
+            },
+            "quarkEvents": {
+                "title": "Quark Config",
+                "description": "Changes made to Quark's configuration for this server"
             }
-        }
-    }
+        },
+        "overview": "Overview"
+    },
+    "setserverlog-type-quark-0": "Quark Events",
+    "setserverlog-type-quark-1": "quark events",
+    "initialreactors-expired": "expired",
+    "initialreactors-notfound": "No reactions found"
 }
