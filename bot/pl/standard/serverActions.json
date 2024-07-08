@@ -5,7 +5,8 @@
         "description_withoutInviter": "Zaproszenie {invite} ostało utworzone dla {channel}",
         "expires": "Wygasa",
         "never": "Nigdy",
-        "maxUses": "Maksymalna liczba użyć"
+        "maxUses": "Maksymalna liczba użyć",
+        "none": "none"
     },
     "inviteDelete": {
         "title": "Zaproszenie usunięte",
@@ -27,5 +28,26 @@
     "emojiUpdated": {
         "title": "Edytowano emotkę",
         "description": "{emoji} została edytowana przez {executor}"
+    },
+    "serverEventUpdate": {
+        "description": "{executor} updated the event {name}",
+        "newLocation": "New Location",
+        "linkToEventImage": "Link to old event image",
+        "newEventDescription": "New Description",
+        "newChannel": "New Channel",
+        "title": "Event Updated"
+    },
+    "serverEventDelete": {
+        "title": "Event Deleted",
+        "linkToEventImage": "Link to event image",
+        "description": "{executor} deleted the event {name}"
+    },
+    "serverEventCreate": {
+        "eventDescription": "Description",
+        "starts": "Starts",
+        "description_withChannel": "{executor} created an event {name} in {channel}",
+        "location": "Location",
+        "title": "Event Created",
+        "description_withoutChannel": "{executor} created an event {name}"
     }
-}   
+}
