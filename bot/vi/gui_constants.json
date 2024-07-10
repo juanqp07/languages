@@ -12,12 +12,12 @@
         "rules_channel_id": "Rule Channel"
     },
     "channelModificationTypes": {
-        "name": "Name",
+        "name": "Tên",
         "user_limit": "User Limit",
         "topic": "Topic",
         "bitrate": "Bitrate",
-        "type": "Type",
-        "position": "Position",
+        "type": "Kiểu",
+        "position": "Chổ",
         "parent_id": "Category",
         "nsfw": "NSFW",
         "rtc_region": "Region"
