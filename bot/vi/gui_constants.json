@@ -20,7 +20,8 @@
         "position": "Chổ",
         "parent_id": "Category",
         "nsfw": "NSFW",
-        "rtc_region": "Region"
+        "rtc_region": "Region",
+        "rate_limit_per_user": "Slowmode"
     },
     "roleModificationTypes": {
         "name": "Name",
@@ -34,6 +35,7 @@
         "name": "Name"
     },
     "webhookModificationTypes": {
-        "name": "Name"
+        "name": "Name",
+        "channel_id": "Kênh"
     }
 }
